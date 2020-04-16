@@ -4,7 +4,7 @@
   "description": "![Screenshot](https://user-images.githubusercontent.com/14981676/48313771-8b72fc00-e5da-11e8-9f1a-0426a54f7399.png)",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
